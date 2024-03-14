@@ -34,3 +34,4 @@ Please include the "pipe" `|` symbol correctly as seen above so your contributio
 | -------------- | ------------ |----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 | 0xb627956e21Ac0599a9db21BB4A841D49a1c4d27D | https://github.com/MorpheusAIs/Docs/pull/67 | 1 | WhitePaper translated to Slovenian |
+| 0xf93DE9FB07f5762a1E3db9a5c687595111928D77 | https://drive.google.com/drive/folders/1QP5QyAWeqekvI6cEz3FekIeszC_8GYX1?usp=sharing | 1 | 3 different T-Shirt designs with 3 logo versions |
